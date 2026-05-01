@@ -19,21 +19,22 @@ prices using **XGBoost**, served via **FastAPI**, with a **Next.js** dashboard.
 ---
 
 ## 📁 Project Structure
+
+
+```
 House-Price-Prediction/
 │
 ├── api/                 # FastAPI backend
 ├── frontend/            # Next.js frontend
-├── data/                # Generated dataset
+├── data/                # Dataset
 ├── models/              # Trained models
 ├── notebooks/           # EDA & experiments
 ├── utils/               # Helper functions
-├── run.py               # Full ML pipeline
-├── requirements.txt     # Dependencies
+├── run.py               # ML pipeline
+├── requirements.txt
 └── README.md
+```
 
----
-
----
 
 ## 🚀 Quick Start
 
