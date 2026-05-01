@@ -194,6 +194,9 @@ POST /predict
 ## 👨‍💻 Author
 
 NEHA JOSHI 
+GitHub: https:(https://github.com/Neha-Joshi05/House-Price-Prediction.git)
+LinkedIn: https://www.linkedin.com/in/neha-joshi-0851a2322?utm_source=share_via&utm_content=profile&utm_medium=member_android
+⭐ Star this repo if you found it useful!
 
 
 
